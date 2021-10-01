@@ -1,0 +1,3545 @@
+[{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "STARLONE OLIVERIO PASSOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "GILSON CARVALHO DOS SANTOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048269"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "EDSON EDENILSON PILATI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048707"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "FABIO ATAIDE CASTRO MARTINS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028285"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "LEONARDO AUGUSTO DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048249"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "ROGERIO FONSECA GONCALVES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{ "Analista" : "GUILHERME SANTOS" },
+{ "Analista" : "JEOVANIO JOAO BITENCOURTE" },
+{ "Analista" : "THIAGO FERNANDES DO NASCIMENTO" },
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "GUILHERME DE LIMA CALIXTO"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "JULIANO ASSIS SILVEIRA"
+},
+{ "Analista" : "ADY JOSE BARBOSA JUNIOR" },
+{ "Analista" : "JOAO CARCIO SILVA" },
+{ "Analista" : "VITOR MORO DE ALMEIDA" },
+{ "Analista" : "ALAN LOPES DA SILVEIRA" },
+{
+	"Grupo" : "Superintendência",
+	"Gerente Grupo" : "ALAN LOPES DA SILVEIRA",
+	"Analista" : "RENATA MARA DO AMARAL DIAS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048264"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "WAGNER GONSALVES BARBOSA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Grupo" : "Centro 2",
+	"Gerente Grupo" : "RENATA MARA DO AMARAL DIAS",
+	"Analista" : "WAINER GOMES WANDERLEY",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048267"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "FILLIPE LOPES DO COUTO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "GILSON MORENO COSTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048268"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "RICARDO DA SILVA FLORES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048709"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "ANTONIO GUILHERME GUERREIRO VINAL",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "VICTOR NERES DE SOUSA DOS SANTOS",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "GUILHERME VERAS DE ALENCAR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048708"
+},
+{ "Analista" : "CLAUDEMBERG FERREIRA" },
+{ "Analista" : "ALVARO PAIVA DE SOUZA" },
+{ "Analista" : "ANDERSON DA SILVA DE OLIVEIRA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "ANDRE HENRIQUE DE FREITAS BANDEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "047276"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "ANGELA FERREIRA JULIO",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "BRUNNO RODRIGUES DE SOUZA FAGUNDES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "BRUNO GUEDES FREI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{ "Analista" : "CALEBE CASSIO DE BRITO SANTANA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "CARLOS GONZAGA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048711"
+},
+{ "Analista" : "CHEILA RIBEIRO MEDEIROS" },
+{ "Analista" : "CHRISTIAN DE OLIVEIRA MOURA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "CLAUDIA MADALENA RODRIGUES DA SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "DANIEL OLIVEIRA PACHECO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "047275"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "DIEGO MEDEIROS DOS SANTOS DE MELO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "023936"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "DORIVAN CLAUDINO BESSA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "EDMILSON FERREIRA BORGES JUNIOR",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054264"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "EDUARDO GARCIA GENGO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054230"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ELTON DA SILVA RESENDE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048706"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "ERICK CARVALHO DA NOBREGA",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "043537"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "EWERTON CAMPOS DOS SANTOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048683"
+},
+{ "Analista" : "FELIPE SONCIN BIANCHI" },
+{ "Analista" : "FLAVIA RUBENIA DA SILVA BARROS" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "GABRIEL MACHADO PRATES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "046006 - Máquina com defeito"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "GILMAR DUARTE ROCHA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : " 045998"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "ISMAEL FILIPE MESQUITA RIBEIRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048721"
+},
+{ "Analista" : "JAIR AFONSO CAETANO" },
+{ "Analista" : "JOSE CARLOS DOS REIS JUNIOR" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "JULIO CEZAR SOUZA TEIXEIRA FILHO",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "045991"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "LARISSA SANTOS GARCIA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "48238"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "LEANDRO GONCALVES MARQUES",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028294"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "LEONARDO TEIXEIRA NOGUEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "043669"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "LUIS ALBERTO DA SILVA"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "LUIZ FELIPE GARCIA DE BARROS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "Dell 048716 e Mac Mini 043670"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "MAGNO TARQUINIO MODESTO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "S/N"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "MARA LINDA SOARES BARROS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055589"
+},
+{
+	"Grupo" : "Centro 3",
+	"Gerente Grupo" : "GILSON CARVALHO DOS SANTOS",
+	"Analista" : "MARCO CORREIA DE MAGALHAES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "MILVIA DA SILVA PORTO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "47308"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "NAYAN VIEIRA DE FARIA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "OCTAVIO AUGUSTO MENDES BATISTA GUIMARAES" },
+{ "Analista" : "PAULO ROBERTO EUGENIO PINHEIRO" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "PEDRO AGUIAR GOMES JUNIOR",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028302"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "JOSE MARCELO PEREIRA DE ARAUJO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054220"
+},
+{ "Analista" : "DAVI HERVAL FONSECA RIBEIRO" },
+{ "Analista" : "GABRIEL MOURAO DE OLIVEIRA" },
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "MARCIO JOSE FERREIRA"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "CAIO HENRIQUE DE ALBUQUERQUE MACHADO COSTA"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "AMANDA DE CARVALHO MARQUES PORFIRIO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54253"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "CHRISEYMON CRISTIANO DA SILVA CORDEIRO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "PEDRO LUIZ PIVOTTO" },
+{ "Analista" : "ALEXANDRE SOUZA DA CONCEICAO" },
+{ "Analista" : "KELSEN KLEBER SILVA BRITO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "TIAGO COUTINHO PIMENTA",
+	"VDI/VPN" : "VPN"
+},
+{
+	"Analista" : "VANESSA SILVA DO AMARAL DOS SANTOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022579"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "RODRIGO DOS SANTOS ALMEIDA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "043676"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "ROGERIO DE SOUSA SILVA"
+},
+{ "Analista" : "RUITER GABRIEL DO AMARAL" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "THIAGO LEANDRO DE FARIA MAFRA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "VALFRIDO RESENDE CARDOSO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "047461"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "VANESSA SANTOS VIEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048273"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "VIVIANE GUIMARAES DE MENDONCA",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "47273"
+},
+{ "Analista" : "WALLACE BRUNO SILVA DE SOUZA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "WALLAS FERREIRA DE MORAIS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054226"
+},
+{
+	"Analista" : "WALLISON BRUNO FERREIA DA COSTA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "WELLINGTON FERNANDES DINIZ" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "WELTON BEZERRA DA CRUZ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "043556"
+},
+{ "Analista" : "GUILHERME FISCHMANN FERREIRA" },
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "ANDERSON LAGES DA FONSECA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "TANIA DOS SANTOS LIMA CUNHA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055389"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "DIEGO TILTON DA SILVA FRAZAO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048225"
+},
+{ "Analista" : "GUILHERME RODRIGUES GONCALVES" },
+{ "Analista" : "CAIO ABREU DE AZEVEDO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "CESAR EDUARDO BARROS LOPES",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "48247"
+},
+{ "Analista" : "ALESSANDRO ALVES DA SILVA" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "SIDNEY DA SILVA BERNAL",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "EDUARDO PINHEIRO BRANDAO",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "ISMAEL DA COSTA TORRES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "RAPHAEL WILKER DE JESUS BRAGA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055523"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "WILANSMAR PEREIRA FOLHA",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "NILO SHINJI SASSAKI",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : ""
+},
+{
+	"Analista" : "NATAN SOUZA SILVA MARINHO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "JONATHAN EVLIN SILVA CAVALCANTE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "MATHEUS YVES CAETANO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048712"
+},
+{
+	"Analista" : "MARCOS ROMERO NASCIMENTO CABRAL DA COSTA",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "RAMIRO VICTOR FERREIRA ALVES",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "ADRIANO SOUSA DE SA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "CARLOS ANDRE DE SOUZA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054231"
+},
+{ "Analista" : "RICARDO HOLANDA CARVALHO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "RAFAEL LOPES DOS SANTOS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Grupo" : "Centro 2",
+	"Gerente Grupo" : "RENATA MARA DO AMARAL DIAS",
+	"Analista" : "PAULO AFONSO RAPOSO VILELA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048251"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "RONALDO MACHADO PIANA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "NEIDA MARIA SILVA DOS SANTOS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "KENIO DE SOUZA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "                "
+},
+{ "Analista" : "RODRIGO ROCHA TAVARES DA SILVA" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "LUIZ CLAUDIO LOCASSO DE PAULA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "DIEGO MEDINA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "055512"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "DANIEL OLIVEIRA FREIRE",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055487"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "GILBERTO GONCALVES PRADO JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022745"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "JONIEL FERNANDES SANTOS",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048718"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "MAURICIO SILVA DE PAULA CUNHA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "MAICON EMANUEL NERIS SILVA" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "MURILO BARBOSA BICALHO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028893"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "EDSON MARTINS DOS SANTOS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "TATINI YURI RODRIGUES TAKEMAE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "BERNARDO JOSE DOS SANTOS JUNIOR ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "046004"
+},
+{
+	"Analista" : "THIAGO GUTENBERG CARVALHO DA COSTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Grupo" : "Centro 3",
+	"Gerente Grupo" : "GILSON CARVALHO DOS SANTOS",
+	"Analista" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "49020"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "RODRIGO CANELLA GARCIA MORALE",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Grupo" : "Centro 1",
+	"Gerente Grupo" : "ALEXANDRE VITORIA DE RESENDE",
+	"Analista" : "GIOVANI CORDEIRO SANTANA"
+},
+{
+	"Analista" : "RENATO JOSE DE FREITAS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "RAFAEL HENRIQUE RODRIGUES SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "047450"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "CLAUDIO VIEIRA DA CUNHA LOPES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Grupo" : "Superintendência",
+	"Gerente Grupo" : "ALAN LOPES DA SILVEIRA",
+	"Analista" : "ALEXANDRE VITORIA DE RESENDE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "049026"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "AUGUSTO DE SOUZA CASTRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "PRISCILA CABRAL SIMAO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "ISSAMO BORGES KISAKA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "IURI CARVALHO BEZERRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "043565"
+},
+{ "Analista" : "LUCAS PINHEIRO DOS SANTOS" },
+{
+	"Analista" : "JOAO PAULO SOSSOLOTI",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "HERBERT COSTA DOS REIS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "ALVARO ANTONIO DE CARVALHO JUNIOR ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048274"
+},
+{ "Analista" : "JULIO CEZAR SOUZA TEIXEIRA FILHO" },
+{
+	"Grupo" : "Centro 1",
+	"Gerente Grupo" : "ALEXANDRE VITORIA DE RESENDE",
+	"Analista" : "WILSON SOARES DO NASCIMENTO"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "PATRICIA SANTOS BORGES GONCALVES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ANA PAULA VIEIRA DE MELO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "GLAUNEZ BORGES DA FONSECA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "                                  "
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "VALBERT OLIVEIRA CAMPOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "047309"
+},
+{
+	"Analista" : "LUIZ MATEUS GUEDES DE FARIA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Grupo" : "Centro 1",
+	"Gerente Grupo" : "ALEXANDRE VITORIA DE RESENDE",
+	"Analista" : "DANIEL MAGALHAES CORREA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048696"
+},
+{
+	"Grupo" : "Centro 3",
+	"Gerente Grupo" : "GILSON CARVALHO DOS SANTOS",
+	"Analista" : "AMANDA ALMEIDA LAMOUNIER",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "JEFERSON GERSON KOCH",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "TIAGO SILVA MARTINS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "PAULO EDUARDO MADUREIRA LODI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RICARDO MIGUEL JORGE ZANIN",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "DELMAR DA CUNHA BRITO FILHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-028948"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "PAULO TARRAGO JAQUES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : ""
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "CAMILA ROSA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "043548"
+},
+{
+	"Grupo" : "Centro 2",
+	"Gerente Grupo" : "RENATA MARA DO AMARAL DIAS",
+	"Analista" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048266"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "FABIO CANDIDO JARDIM",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "47272"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "FERNANDA HONDO TEDESQUE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "43678"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "HENRY DARIO REATEGUI RUGEL",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "VPN DO BB"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "OSVALDO ANTONIO POZZA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022606"
+},
+{
+	"Analista" : "ANTONIO CARLOS LOPES JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "CAIO SAUSMIKAT LIMA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "OSVALDO PEREIRA DUARTE JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "043536"
+},
+{
+	"Grupo" : "Centro 3",
+	"Gerente Grupo" : "GILSON CARVALHO DOS SANTOS",
+	"Analista" : "LEANDRO NAKAGAWA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048239"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "ANDRE FELIPE SOARES TEIXEIRA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "RILBEN RIBEIRO SOUSA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "MARISTELLA HEINEN",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "                                  "
+},
+{
+	"Analista" : "JESSICA GOMES DE LACERDA",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "ANDERSON PROCOPIO E SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "046016"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "JEFERSON DE SOUZA FERREIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-054234"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "MARCO ANTONIO AIRES POZZI",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "JOSE NICODEMUS BELEZA FURTADO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "ACLECIO PEREIRA DA COSTA" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "ADRIANO CARVALHO BATISTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ADRIANO DE ARAGAO FREIRE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : " "
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ADRIANO SOUZA SOARES DE AQUINO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ALEANDRO DA SILVA GUEDES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "000000"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "ALEXANDRE DE MEDEIROS PASCOAL",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ALFREDO WIDMER",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : " "
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "ANDRE PEREIRA PASSOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "049038"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ANNA CRISTINA RODRIGUES CARDOSO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "              "
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "ANTONIO EUSTAQUIO LOBENWEIN",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "ARGEMIRO MILITAO BARROSO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "ASSIS PEREIRA DOS PASSOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "BENTO LEITE ARAUJO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : " 028862"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "BRUNO LACERDA CORREA DO MONTE",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "CARLOS GOMES RODRIGUES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "CARLOS HENRIQUE CRUVINEL MARTINS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "CAROLINA HELENA MESQUITA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "CAROLINA SIMOES ANTUNES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "CAYRO CORREIA OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "DECIO DE CARVALHO FIRMINO FILHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "43526"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "EDENIVAN LIBERATO DE SOUZA"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "EDUARDO JOSE CLODOALDO CUNHA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054244"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "EDUARDO ROZSANYI NUNES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ELDER DE LIMA SOUZA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "EMIR ALVES DE SOUSA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "FERNANDO GONCALVES DE OLIVEIRA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : ""
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "FILDES TEIXEIRA COSTA JUNIOR",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "computador Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz   3.40 GHz"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "EDUARDO DIAS GUSMAO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "FRANCISCO JOSE SOARES ROCHA ",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "GABRIELA RAYSSA FERREIRA GUEDES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-048710"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "GILBERTO DA SILVA ATAIDE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "               "
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "GISELE COSTA DE OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "023935"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "GUSTAVO MARCO CAETANO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048695"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "LHITTS MITHS MACIEL",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054265"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "RODRIGO LEONARDO PERES MELCHIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "049046"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "LUIZ CARLOS ALVES PEREIRA GONCALVES",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "MARIA CECILIA OLIVEIRA SILVA ",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022692"
+},
+{
+	"Grupo" : "Superintendência",
+	"Gerente Grupo" : "ALAN LOPES DA SILVEIRA",
+	"Analista" : "GUILHERME ALVES REIS"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "HERMES MARUYAMA CACHOEIRA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-022746"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "HERMES RICARDO DANTAS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "HESLEI BRANDAO DA COSTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "047438"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "INGRID VALERIA SALAZAR CRUZ NEGREIROS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ISRAEL GOMES MOREIRA DA SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "LEANDRO SANTOS COUTINHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048727"
+},
+{
+	"Analista" : "BRUNO DE SOUSA OLIVEIRA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "JOSE ROSSINI GUIMARAES RAMOS",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022690"
+},
+{
+	"Analista" : "IURI BATISTA BESERRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "IZABEL CRISTINA FERNANDES",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "JANETE ADRIANE SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54221"
+},
+{ "Analista" : "JOAO RENATO DIAS RODRIGUES" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "JONATHAN NOGUEIRA RUFINO BATISTA PAIVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048277"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "JULIO CESAR LEANDRO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "RAPHAEL DE SOUSA CRUZ REIS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "LIERCIO RODRIGUES OFUJI",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "LUCIARA MAURA ALVES CESARIO" },
+{
+	"Analista" : "BISMARK DE CARVALHO DE OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "LUIZ OTAVIO TEIXEIRA DE MOURA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055550"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "MARCO ANTONIO ALBUQUEQUE MIRANDA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "                                    "
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "MARCOS ANTONIO VIEIRA DE SA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "043527"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "MARCOS PAULO FERREIRA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048359"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "MARCUS KIYOSHI INOUE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "047310"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "MARIA CRISTINA PEREIRA DA SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "020285"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " MATHEUS HENRIQUE DE SOUSA BRITO",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "NELIO SERGIO PINHEIRO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "NILTHON CANDEIA DE SOUZA NETO",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "OLIVEIRA VITORINO DE GODOY",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "OSCAR NAKAMURA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028953"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "GENGIS KAN FERNANDES DE MEDEIROS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "RACHEL DANGELO FERREIRA RODRIGUES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "43782"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "RAFAEL CAVALCANTE DE OLIVEIRA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RAFAEL RODRIGUES PEREIRA DE ARAUJO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "RAPHAEL DE MELO SALVIANO MOTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048275"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "RENATO ROZSANYI NUNES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022591"
+},
+{
+	"Grupo" : "Centro 2",
+	"Gerente Grupo" : "RENATA MARA DO AMARAL DIAS",
+	"Analista" : "RICARDO COSTA COUTINHO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "ROBERTO GONCALVES SOARES",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022650"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "ROBERTO OSSAMU INOUE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "RODRIGO CARLOS DE SOUSA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054263"
+},
+{
+	"Analista" : "RODRIGO GUIMARAES ARAUJO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "RODRIGO HERNANDEZ SOARES",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048252"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "RODRIGO PEREIRA ROQUE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048261"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RODRIGO SALES DO NASCIMENTO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "046012"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "RUAN GONCALVES DE OLIVEIRA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "SALVIANO BANDEIRA NETO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "SANDRO COSTA TEIXEIRA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "SIMONE CONCEICAO SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "029903"
+},
+{
+	"Analista" : "SOLANGE DE LOURDES SOUZA",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "TANCREDO ALVES DA CRUZ JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54228"
+},
+{ "Analista" : "TATIANA BARBOSA NOGUEIRA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "TATIANA RAIMUNDA RODRIGUES DE OLIVEIRA CALAIS"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "TEODULFO PINTO KOLLAR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "THIAGO MARINI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "TIAGO NUNES DA SILVA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028272"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "VALTRAUDIA HIRDES FELSCHE",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-022680"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "VANESSA MOURA MELO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " VINICIUS FERNANDO COSTA COUTINHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "LUIS FERNANDO DIAS" },
+{
+	"Analista" : "NILTON CANDEIRA DE SOUZA NETO",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "VINICIUS MACIEL PIRES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "VINICIUS PEREIRA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048717"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "VITOR MARTINS AVELINO DE CARVALHO SIMOES NORONHA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054258"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "WAGNO JUNIOR ALVARES TEIXEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : ""
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "ZORAN DAVI BRAZ DE MIRANDA"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "FABRICIO ALVES RIBEIRO NOGUEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028909"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "MARIA GENOVEVA VASCONCELOS SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "ESPERANCA TAMAYO NAVARRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "043801"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "ERNANDES COSTA NASCIMENTO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "DANIELA DE CASTRO OSORIO MACEDO",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022640"
+},
+{
+	"Analista" : "DANIEL MELO MATIAS",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "RENATO PEDROSO ALENCAR",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "PABLO ACASSIO SOUSA MELLO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "48702"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "GERALDO TADEU TEIXEIRA DE SOUZA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "ODEMAR LUIZ BREDOW",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "FABIANO CARVALHO DE SOUZA",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "HENRIQUE ROZSANYI NUNES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "KEVIN DE SANTANA ARAUJO",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "RODRIGO NUNES OLIVEIRA ALVES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "MARIKA CECILIA MORCELLI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048689"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "LUCAS DOS SANTOS SOUSA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "THIAGO RODRIGUES CARVALHO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "GABRIEL BUENO YASSUNAGA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "048704"
+},
+{
+	"Analista" : "EMANUELLA MARTINS BATISTA RODRIGUES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "DIEGO FERNANDES PAZ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "048276"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "LUIZ ILHA MOCHEM MACIEL",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054254"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " RANDER GOMES BARROS",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " FILIPE CARVALHO DE SOUSA",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " LUIZA CAROLINA SALAZAR CRUZ NEGREIROS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54261"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " JOAO VITOR ALMEIDA RODRIGUES MAGALHAES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54246"
+},
+{
+	"Analista" : "VICTOR HUGO GARCIA DE MOURA",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " MARIA MILLENY FONTENELES MELO",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "VINICIUS COSTA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "28295"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : " GUILHERME RODRIGUES CORDEIRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54266"
+},
+{
+	"Analista" : "CRISTIANO SOUSA RUAS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "CLODOMIR DA PENHA REIS LIMA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "MATHEUS ROCHA DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "-"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "EMANUELL SANTOS DE JESUS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-048688"
+},
+{ "Analista" : "ISABEL LINHARES DE SOUSA" },
+{
+	"Analista" : "WANDERSON JONER SILVA CRUZ",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "PAULO VINICIUS GOMES DE QUEIROS",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028275"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "MARCUS DA SILVA FERREIRA",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "54251"
+},
+{ "Analista" : "HUGO BARRETO DE FREITAS" },
+{ "Analista" : "WILLIAM PEREIRA GOMES" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "THIAGO SUDRE CEZARINO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054232"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "WATSON BENTES JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054262"
+},
+{
+	"Analista" : "THAYS COSTA FERNANDES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054253"
+},
+{ "Analista" : "TIAGO CARDOSO AGUIAR" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "PEDRO HENRIQUE LEDA ARAUJO GUIMARAES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054233"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "RAFAEL SANTOS DUARTE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "ALLAN PATRICK SOARES DE ALMEIDA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054250"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "JOAO KHALIL BATISTA MARTINS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "SIDONAL DO ESPIRITO SANTO FERREIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "020285"
+},
+{ "Analista" : "SEBASTIAO LOURENCO FERREIRA" },
+{ "Analista" : "MARCELO AMORIM SOARES" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "JEFFERSON PRADO OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028305"
+},
+{
+	"Analista" : "FRANCISCO DAS CHAGAS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "22631"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "NALU GOMES LEAO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "043791"
+},
+{ "Analista" : "JUCIMAR ANTONIO PEREIRA" },
+{ "Analista" : "FELIPE LUCAS COSTA DA SILVA" },
+{ "Analista" : "FERNANDO WILLIAM SOUSA MEDRADO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "GABRIEL MOREIRA MARUSI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028273"
+},
+{ "Analista" : "LUIZ CARLOS ALVES PEREIRA GONCALVES" },
+{ "Analista" : "GILVAN OLIVEIRA ALVES" },
+{ "Analista" : "GILVANDRO FARIAS DE MIRANDA NETO" },
+{ "Analista" : "GUILHERME HENRIQUE RAMOS DA SILVA" },
+{ "Analista" : "JAIRTON EUGENIO SAVICKI JUNIOR" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "JOAO GABRIEL DOS SANTOS RODRIGUES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "patrimônio-049029"
+},
+{ "Analista" : "LAIS DA SILVA PORTUGAL" },
+{ "Analista" : "LUIZ FELIPE DE OLIVEIRA CAMPOS" },
+{ "Analista" : "MARCO AURELIO CANCIO PEREIRA SOARES" },
+{ "Analista" : "PATRICK CISUAKA KABONGO" },
+{ "Analista" : "RODRIGO BARBOSA DA SILVA" },
+{ "Analista" : "SHAIANNE THEODORO MELCHIOR" },
+{ "Analista" : "TIAGO VENANCIO ALVES" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ULISSES DOUGLAS PORTELA ARAUJO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054257"
+},
+{ "Analista" : "VICTOR ALEX CARDOSO CHAVES" },
+{ "Analista" : "YVES GUILHERME LOPO RIBEIRO LIMA" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "IGOR ALVES MACHADO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "049027"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 2",
+	"Gerente Grupo" : "LEANDRO NAKAGAWA",
+	"Analista" : "JOAO PEDRO ABUBAKIR BRUMANO DE CARVALHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054227"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "CARLOS EDUARDO DA SILVA NAKASHOJI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "VICTOR DE MEIRELLES MOTTA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054229"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "REBHECA DOMINGUES UDRE VARELA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "029933"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "ARTHU BARROS DE OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054236"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "CLEUTON BARBOSA AGRIPINO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054223"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "DENNYS VIEIRA MARINHO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054260"
+},
+{ "Analista" : "LORRAINE ALVES PEREIRA" },
+{ "Analista" : "LUCAS DE MOURA AMARAL" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "LUIS ANTONIO MEIRELES DE ASSIS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054235"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "THIAGO ALVES DE OLIVEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054239"
+},
+{
+	"Analista" : "JOAO RENATO DIAS RODRIGUES",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Analista" : "LUCIANO DE OLIVEIRA MENDONCA",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "MARCO AURELIO DA SILVA LEONY"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "SUZAMAR FREITAS DA COSTA",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "16760"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "VITOR OLIVEIRA DE VASCONCELOS SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "028286"
+},
+{ "Analista" : "CLEUTON BARBOSA AGRIPINO JUNIOR" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "LUCIARA DANIELLE TRAUTMANN",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054242"
+},
+{ "Analista" : "LEONARDO PEREIRA DE ARAUJO" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "CHRISTINE DOS SANTOS DE MOURA MAGALHAES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054219"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "JOSE RONALDO LELES JUNIOR",
+	"Computador" : "Pessoal"
+},
+{ "Analista" : "LUCAS DE SOUZA FREITAS" },
+{
+	"Analista" : "GUSTAVO RODRIGUES TORRE",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS"
+},
+{ "Analista" : "VALDEMIR ANDRE FELIX" },
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "FERNANDA OLIVEIRA LOPES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "ALAN CEZAR PINHEIRO FIGUEIREDO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 8",
+	"Gerente Grupo" : "NESTOR GONCALVES DE RESENDE JUNIOR",
+	"Analista" : "ALINE CORREIA DE MATOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS",
+	"Patriminio" : "43671"
+},
+{ "Analista" : "ANAILSON DOS REIS" },
+{ "Analista" : "ANDRE RIBEIRO CARNEIRO" },
+{ "Analista" : "ANDREA GONTIJO DOS SANTOS MACHADO" },
+{ "Analista" : "ASSIS PEREIRA DOS PASSOS" },
+{ "Analista" : "CRISTIANE DOS SANTOS DE MOURA MAGALHAES" },
+{ "Analista" : "FELIPE JESUS DOS SANTOS" },
+{ "Analista" : "FERNANDO LUIZ DO NASCIMENTO" },
+{ "Analista" : "FERNANDO RODRIGUES CHAVES CAVALCANTE" },
+{ "Analista" : "FREDERICO GOMES DA CRUZ" },
+{ "Analista" : "GEORGE SALU DA SILVA" },
+{ "Analista" : "JHONNATAN DE MESQUITA VIEIRA" },
+{ "Analista" : "LILIAN GRACIELLE LOLA DE ANDRADE LEJMI" },
+{
+	"Analista" : "LUIS HENRIQUE NUNES GUIMARAES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Mac OS"
+},
+{ "Analista" : "LUIZ FLAVIO CLINK DA SILVA PAULA" },
+{ "Analista" : "MAGNO DOS SANTOS BRITO" },
+{ "Analista" : "MATEUS ALVES COSTA" },
+{ "Analista" : "MATHEUS HENRIQUE ARAUJO DOS SANTOS" },
+{ "Analista" : "PAULO HENRIQUE BRAGA PEREIRA" },
+{ "Analista" : "RENAN PORTUGAL DO RIO" },
+{ "Analista" : "ROBSON TAVARES LERBACH" },
+{ "Analista" : "SERGIO MEDEIROS DE SOUZA" },
+{ "Analista" : "BRUNNO DIEGO OLIVEIRA BORGES" },
+{ "Analista" : "DANILO CARVALHO E SILVA" },
+{ "Analista" : "GLEICE ELEN DA SILVA" },
+{ "Analista" : "HUDSON HENRIQUE QUEIROZ GOMES" },
+{ "Analista" : "JHOSEPHER MIRANDA  LEOPOLDO" },
+{ "Analista" : "JULIANA MAMARE RIBEIRO" },
+{ "Analista" : "LUDEANNE OZANAM ARAUJO BARRETO" },
+{ "Analista" : "SAULO ALESSANDRE DE LIMA" },
+{ "Analista" : "LEONARDO FERREIRA LIMA" },
+{ "Analista" : "YAN LUCAS CORREIA PESSOA" },
+{ "Analista" : "VERONICA DE ALMEIDA CAVALCANTE" },
+{ "Analista" : "RUTH LEA CARNEIRO PEREIRA" },
+{ "Analista" : "RAPHAEL FREITAS DE BRITTO" },
+{ "Analista" : "PEDRO IVO NOGUEIRA DE MEDEIROS" },
+{ "Analista" : "NEREU COSTA NOGUEIRA" },
+{ "Analista" : "LUIZ HENRIQUE EVANGELISTA CHAGAS LEITE" },
+{ "Analista" : "GUSTAVO LESSA MEIRELES" },
+{
+	"Analista" : "LOURIVAL DA CONCEICAO PEREIRA JUNIOR",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "NATALIA DIAS GOIVINHO MIRANDA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055484"
+},
+{
+	"Analista" : "RAPHAEL SERVIO DE OLIVEIRA",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "055570"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "BEATRIZ CIBELE LEITE DIAS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054222"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "ULYSSES ANTONY BRABO DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+},
+{
+	"Analista" : "ALEN KALEB DOS ANJOS BENTO",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055557"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "ARTHUR MATOS ALVES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "54225"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "GENIVALDO JOSE DA COSTA JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055414"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "FELIPE CESAR ARAUJO DOS SANTOS",
+	"VDI/VPN" : "VDI 1 - Personalizada",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055595"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "EDDIE RANIERI DE SOUZA ASSIS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "55586"
+},
+{
+	"Grupo" : "Grupo 5",
+	"Gerente Grupo" : "ALESSANDRO ALVES DA SILVA",
+	"Analista" : "MURILLO AUGUSTO FLEURY"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "LUIZ FERNANDO COSTA CUNHA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055571"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "LUCAS SOARES DE BRITO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "55397"
+},
+{ "Analista" : "MAURICIO DIAS DE CARVALHO MACHADO" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "FELIPE JACOMINI RIBAS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "055531"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "JOAO PAULO VALADARES DA SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "55418"
+},
+{
+	"Analista" : "PEDRO HENRIQUE OLIVEIRA DE CASTRO",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055540"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "AYSLLA CAROLINE PRATES GOMES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048704"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "ALEX BONIFACIO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055537"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 13",
+	"Gerente Grupo" : "MARCO CORREIA DE MAGALHAES",
+	"Analista" : "THALLYS SILVA BRAZ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 1",
+	"Gerente Grupo" : "PAULO AFONSO RAPOSO VILELA",
+	"Analista" : "LUIS AUGUSTO DOS SANTOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "048028"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "MARCOS VICTOR MARIANO PERDIGAO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "FILIPE CAVALCANTE FERREIRA FONTES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "049013"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "ISAAC RIBEIRO TAVARES JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "PEDRO FONSECA PIMENTEL",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "DANILO GOZZER SOSSAI",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "055508"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 11",
+	"Gerente Grupo" : "RICARDO COSTA COUTINHO",
+	"Analista" : "ANTONIO DE PADUA MOURA SIQUEIRA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "ERIKA MEDEIROS E SILVA" },
+{ "Analista" : "BRYAN SOUZA RODRIGUES" },
+{ "Analista" : "ALEXANDRE PERRY DE SOUZA WERNECK", "VDI/VPN" : "VPN" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "CHARLES GUEDES DA CRUZ FERNANDES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028307"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "WESLEY WALCACER TSCHIEDEL",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "028301"
+},
+{
+	"Analista" : "WALTER SCHMITT JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "055562"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "BRUNO CARLOS MOTA ARAUJO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "KARLA BEZERRA SIQUEIRA E SILVA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Linux",
+	"Patriminio" : "054245"
+},
+{ "Analista" : "JOAO VITOR DA CRUZ NASCIMENTO NUNES" },
+{
+	"Analista" : "FREDERICO PINHEIRO DIB",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{ "Analista" : "CELIA CATARINA SANTOS UCHOA" },
+{ "Analista" : "ALINE PATRICIA DA SILVA PIMENTEL" },
+{ "Analista" : "MICHAEL AUGUSTO QUINTAIROS LOPES" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RICARDO ADRIANO PORTO E SILVA",
+	"VDI/VPN" : "VDI 2 - Compartilhada",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RIVALDO PLINIO DOS SANTOS JUNIOR",
+	"VDI/VPN" : "VDI 2 + VPN (Especial)",
+	"Computador" : "Desktop - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "022737"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "DIOGO DOS SANTOS BISPO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054256"
+},
+{ "Analista" : "LEONARDO DELINSK HAICKEL MARTINS STADLER" },
+{ "Analista" : "MARCOS PRADO CASON" },
+{ "Analista" : "RENATO GODOI DE SOUZA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "ALESSANDRA FROTA CORDEIRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 7",
+	"Gerente Grupo" : "GIOVANI CORDEIRO SANTANA",
+	"Analista" : "GABRIELLE BERTOLY BERNARDO DOS SANTOS",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "CAROLINA CINTRA RODRIGUES" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 10",
+	"Gerente Grupo" : "WILSON SOARES DO NASCIMENTO",
+	"Analista" : "JOAO PAULO NERI DOS SANTOS SOARES",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "55562"
+},
+{ "Analista" : "AURELIANO SOARES ARAGAO JUNIOR" },
+{ "Analista" : "AFONSO ALVES MONTEIRO JUNIOR" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "AGACY MARTINS DE FREITAS JUNIOR",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "GABRIEL RODRIGUES IBANEZ",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Mac OS"
+},
+{ "Analista" : "GILCIMAR SOARES LEITE" },
+{ "Analista" : "KAUAN ASSUNCAO SANTOS" },
+{ "Analista" : "LUIZ FILIPE DE CASTRO MEDEIROS", "VDI/VPN" : "VPN" },
+{
+	"Centro" : "Centro 3",
+	"Gerente Centro" : "GILSON CARVALHO DOS SANTOS",
+	"Grupo" : "Grupo 6",
+	"Gerente Grupo" : "AMANDA ALMEIDA LAMOUNIER",
+	"Analista" : "RODRIGO TOURINO MACHADO DE OLIVEIRA"
+},
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 9",
+	"Gerente Grupo" : "SAMUEL ANDRADE DE OLIVEIRA",
+	"Analista" : "MARIO ISHIYAMA",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Windows"
+},
+{ "Analista" : "ANDERSON RAMALHO DE CALDAS" },
+{
+	"Centro" : "Centro 2",
+	"Gerente Centro" : "RENATA MARA DO AMARAL DIAS",
+	"Grupo" : "Grupo 4",
+	"Gerente Grupo" : "WAINER GOMES WANDERLEY",
+	"Analista" : "NORMA DOS SANTOS RIBEIRO",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Notebook - BBTS",
+	"Sistema Operacional" : "Windows",
+	"Patriminio" : "054236"
+},
+{ "Analista" : "MATHEUS YAIR MEDEIROS PORTO" },
+{ "Analista" : "TIAGO MARTINS ROCHA" },
+{
+	"Centro" : "Centro 1",
+	"Gerente Centro" : "ALEXANDRE VITORIA DE RESENDE",
+	"Grupo" : "Grupo 12",
+	"Gerente Grupo" : "DANIEL MAGALHAES CORREA",
+	"Analista" : "JOAO VITOR GONCALVES COSTA XAVIER",
+	"VDI/VPN" : "VPN",
+	"Computador" : "Pessoal",
+	"Sistema Operacional" : "Linux"
+}]

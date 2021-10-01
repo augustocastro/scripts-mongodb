@@ -1,0 +1,1 @@
+db.metas.ensureIndex( { usuario: 1, equipe: 1, vigencia: 1 }, { unique:true } );
